@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Calculator Demo" verbose="10" parallel="false"
+	thread-count="1">
+
+	<test name="Calculation of two numbers">
+		<classes>
+			<class name="com.ratedr.calc.Calculator">
+				<methods>
+					<include name="addition" />
+					<include name="substraction" />
+					<include name="multiplication" />
+					<include name="division" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite>
