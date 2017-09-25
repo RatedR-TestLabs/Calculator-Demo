@@ -5,7 +5,14 @@
 	<artifactId>CalculatorDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Calculator Demo</name>
-	<description>Prepared by Rated R TestLabs</description>
+
+	<description>Testing Tools is a blog dedicated to all the professional Software Testers. 
+	At Testing Tools, our main goal is to provide cutting-edge helpful articles, best practices, 
+	and other information about the software testing that are easy to understand for testing professionals
+	 and non-technical people who want to choose a career in Software Testing. 
+	https://ratedr05.wordpress.com/</description>
+
+	<url>https://ratedr05.wordpress.com/</url>
 
 	<dependencies>
 		<dependency>
@@ -39,4 +46,5 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
